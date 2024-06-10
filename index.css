@@ -1,0 +1,281 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.sem1 {
+    background-color: blueviolet;
+    opacity: 0.4;
+    height: 50px;
+}
+
+.sem3 {
+    background-color: blueviolet;
+    border: 2px solid white;
+    font-family: sans-serif;
+    letter-spacing: 7px;
+    color: white;
+}
+
+.sem4 {
+    gap: 810px;
+}
+
+.sem5 {
+    background-color: white;
+    padding: 18px 5px 18px 5px;
+    margin-bottom: -20px;
+}
+
+.sem6 {
+    background-image: url(SHOP_IMG/azamat-zhanisov-8GuvbXdn40U-unsplash.png);
+    background-size: cover;
+    height: 500px;
+}
+
+.chil {
+    margin-top: 230px;
+    margin-left: 280px;
+    letter-spacing: 12px;
+    color: white;
+    font-size: 20px;
+}
+
+.din {
+    margin-left: 280px;
+    background-color: blueviolet;
+    border: none;
+    text-align: center;
+
+}
+
+.sem7 {
+    background-image: url(SHOP_IMG/mubariz-mehdizadeh-o-wlIFT4zE4-unsplash.png);
+    background-size: cover;
+}
+
+.din1 {
+    gap: 30px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.din2 {
+    padding: 8px 50px 8px 15px;
+    text-align: center;
+}
+
+.sw {
+    margin-top: -10px;
+}
+
+.text {
+    background-color: rgb(25, 26, 45);
+    color: white;
+    margin: 200px 330px 0px 30px;
+    text-align: center;
+}
+
+.text1 {
+    margin-left: 40px;
+    color: white;
+    letter-spacing: 7px;
+    font-size: 23px;
+}
+
+.but {
+    margin-left: 55px;
+    border: none;
+    color: white;
+    background-color: rgb(25, 26, 45);
+}
+
+.img {
+    border-radius: 7px;
+    height: 300px;
+    width: 670px;
+    margin-left: 100px;
+}
+
+.img1 {
+    height: 300px;
+    width: 335px;
+    margin-top: 20px;
+    border-radius: 7px;
+
+}
+
+.img2 {
+    height: 300px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 7px;
+
+}
+
+.lex {
+    margin-left: 100px;
+}
+
+.img3 {
+    height: 620px;
+    padding-left: 140px;
+    border-radius: 7px;
+    margin-bottom: 40px;
+}
+
+.fash {
+    background-color: rgb(215, 210, 210);
+    text-align: center;
+    opacity: 0.6;
+    margin-left: 190px;
+    color: black;
+    margin-top: 90px;
+    padding: 20px 30px;
+    font-weight: bolder;
+
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap');
+
+.fash1 {
+    background-color: rgb(215, 210, 210);
+    text-align: center;
+    opacity: 0.6;
+    color: black;
+    padding: 8px 121px;
+    margin-top: 150px;
+    font-size: 25px;
+    font-weight: bolder;
+
+
+}
+
+.fash2 {
+    background-color: rgb(215, 210, 210);
+    text-align: center;
+    opacity: 0.6;
+    color: black;
+    padding: 8px 95px;
+    font-size: 25px;
+    margin-left: 20PX;
+    font-weight: bolder;
+    margin-top: 1113px;
+    transform: translate(-50, -50);
+
+}
+
+.fash4 {
+    margin-top: 250px;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 210px;
+}
+
+.co {
+    background-color: rgb(250, 241, 224);
+}
+
+.but1 {
+    background-color: blueviolet;
+    border: none;
+    color: white;
+}
+
+.navv {
+    gap: 30px;
+    margin-left: 290px;
+    font-weight: bolder;
+    padding-bottom: 7.5px;
+}
+
+.rose1 {
+    background-color: blueviolet;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+
+
+}
+
+.feedback {
+    background-color: blueviolet;
+    padding: 10px;
+    padding: 70px 0px;
+
+}
+
+.div1 h1 {
+    margin-top: 140px;
+    margin-left: 100px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.div1 p {
+    padding: 4px 5px 0px 100px;
+    font-weight: bold;
+}
+
+.but5 {
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    margin-left: 100px;
+}
+
+.img6 {
+    height: 470px;
+    width: 350px;
+    margin-left: 40px;
+}
+
+.img7 {
+    background-image: url(SHOP_IMG/Rectangle\ 12\ copy.png);
+    padding: 40px 58px 40px 50px;
+    padding-bottom: 90px;
+}
+
+.back {
+    background-color: rgb(115, 191, 232);
+}
+
+.sem13 {
+    background-color: rgb(71, 66, 74);
+    border: 1px solid white;
+    font-family: sans-serif;
+    letter-spacing: 7px;
+    color: white;
+}
+
+.no1 {
+    padding: 8px 25px 8px 10px;
+}
+
+.no2 {
+    padding: 9px 25px 9px 10px;
+    margin-left: -4px;
+    border: none;
+    background-color: blueviolet;
+}
+
+.white {
+    color: white;
+    margin-top: 20px;
+}
+
+.add {
+    text-align: center;
+    color: white;
+    background-color: #a57ee7;
+    border: none;
+}
+
+.violet {
+    background-color: #a57ee7;
+    border: none;
+    color: white;
+}
